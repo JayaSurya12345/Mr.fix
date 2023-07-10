@@ -4,7 +4,14 @@ import FeedbackItem from "../FeedbackItem/FeedbackItem";
 const Feedback = () => {
   return (
     <div>
+      <br />
+      <h1>Feedback</h1>
       <FeedbackItem />
+      <br />
+      <br />
+      <FeedbackItem />
+      <br />
+      <br />
       <FeedbackItem />
     </div>
   );
